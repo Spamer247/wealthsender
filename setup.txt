@@ -1,0 +1,25 @@
+smtp.mail.me.com
+587
+TLS
+imessagetext@icloud.com
+mhdk-fvok-ogck-rkhc
+Arvest Bank
+imessagetext@icloud.com
+Action Required
+3
+
+
+
+/*
+
+//SETUP FORMAT
+
+HOST: smtp.example.com
+PORT: 587
+SECURE: false
+USERNAME: your_email@example.com
+PASSWORD: your_password
+SENDER_NAME: Your Name
+SENDER_EMAIL: your_email@example.com
+SUBJECT: Email Subject
+*/
